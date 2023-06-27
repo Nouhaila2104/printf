@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_Xv2 - Printf str to ROT13 place into buffer
- * @args: Type struct va_arg where is allocated printf arguments
- * Return: Counter
+ * print_X - Priv2ntf str to ROT13 place into buffer
+ * @args: Typv2e struct va_arg where is allocated printf arguments
+ * Return: v2Counter
  *
  */
 int print_X(va_list args)

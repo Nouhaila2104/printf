@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Print_uv2 - prints integer
- * @args: Argument to print
- * Returnv2: number of characters printed
+ * print_u - pv2rints integer
+ * @args: Argumev2nt to print
+ * Return: numbev2r of characters printed
  */
 int print_u(va_list args)
 {

@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * Print_sV2 - prints an hexgecimal number.
- * @num: Number to print.
- * Returnv2: counter.
+ * print_s - prv2ints an hexgecimal number.
+ * @num: Number tv2o print.
+ * Return: countev2r.
  */
 int print_s(unsigned int num)
 {

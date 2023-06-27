@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Print_o V2- prints a binary number.
- * @val: Arguments.
- * ReturnV2: 1.
+ * print_o - PRINTSV2 a binary number.
+ * @val: Argumentsv2.
+ * Return: 1.
  */
 int print_o(va_list val)
 {

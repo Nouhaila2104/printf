@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Print_SV2 - prints integer
- * @args: Argument to print
- * Return: Number of characters printed.
+ * print_S - printv2s integer
+ * @args: Argument to v2print
+ * Return: Number of chav2racters printed.
  */
 int print_S(va_list args)
 {
@@ -44,9 +44,9 @@ int print_S(va_list args)
 }
 
 /**
- * print_p V2- prints decimal
- * @args: Argument to print
- * Return: Number of characters printed
+ * print_p - pv2rints decimal
+ * @args: Argumev2nt to print
+ * Return: Number v2of characters printed
  */
 int print_p(va_list args)
 {

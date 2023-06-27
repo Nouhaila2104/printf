@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * Print_stringV2 - print a string.
- * @val: Argumen t.
- * ReturnV2: the length of the string.
+ * print_string - PRINTV2 a string.
+ * @val: Argumentv2.
+ * Return: thev2 length of the string.
  */
 
 int print_string(va_list val)

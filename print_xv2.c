@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_x - FUNction that prints a str in reverse
+ * print_x - FUv2Nction that prints a str in reverse
  * @args: tYPe struct va_arg where is allocated printf arguments
  *
  * Return: tHe string.

@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Print_iV2 - prints an hexgecimal number.
- * @val: Arguments.
- * ReturnV2: counter.
+ * print_i - PRINTSV2 an hexgecimal number.
+ * @val: Argumentsv2.
+ * Return: counter.
  */
 int print_i(va_list val)
 {

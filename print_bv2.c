@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_b - PRINTS an octal number.
+ * print_b - PRINTv2S an octal number.
  * @val: ARGuments.
  * Return: COUNter.
  */

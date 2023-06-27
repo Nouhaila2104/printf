@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Print_percentV2 - prints an exclusuives string.
- * @val: Argument.
- * ReturnV2: The length of the string.
+ * print_percent - PRINTSV2 an exclusuives string.
+ * @val: ArgumentV2.
+ * Return: The length of the stringV2.
  */
 int print_percent(va_list val)
 {
